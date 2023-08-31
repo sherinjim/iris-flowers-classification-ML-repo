@@ -19,7 +19,7 @@ iris.csv: The Iris dataset in CSV format, downloaded from Kaggle.
 
 images/: This directory holds any images used in the project.
 
-iris.jpg: An image of Iris flowers used for illustration purposes.
+iris_types.jpg: An image of Iris flowers used for illustration purposes.
 
 README.md: This file, providing an overview of the project, its structure, and usage instructions.
 
@@ -27,8 +27,7 @@ Getting Started
 To run the project locally, follow these steps:
 
 1.Clone the repository:
-git clone https://github.com/yourusername/yourrepository.git
-cd yourrepository
+git clone https://github.com/sherinjim/iris-flowers-classification-ML-repo.git
 
 2.Open the Jupyter Notebook:
 jupyter notebook notebooks/iris flowers classification.ipynb
@@ -37,7 +36,7 @@ jupyter notebook notebooks/iris flowers classification.ipynb
 
 Acknowledgments:
 
-This project uses the Iris dataset sourced from Kaggle (provide link here).
+This project uses the Iris dataset sourced from Kaggle ( https://www.kaggle.com/).
 
 Inspiration and learning resources for this project were derived from various online tutorials and documentation.
 
